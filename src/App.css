@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.foot{
+  background-color: grey;
+  padding: 3px;
+  margin-top: -20px;
+  height: 200px;
+  }
+
+

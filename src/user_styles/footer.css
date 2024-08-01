@@ -1,0 +1,19 @@
+.copyfoot{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+.foot{
+    background-color: grey;
+    padding: 2px;
+     margin-bottom:20px;
+    height: 350px;
+    }
+  .icons{
+    margin-right: 4px;
+  }
+   .ic{
+    font-size: 50px;
+    margin-right: 25px;
+   }   
+
+

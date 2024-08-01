@@ -1,0 +1,11 @@
+.place{
+    background-color: rgb(71, 71, 71);
+    margin: 20px;
+    padding: 15px;
+    color: white;
+    text-align: right;
+    margin-left:70%;
+}
+.order{
+    background-color:rgb(179, 179, 179) ;
+}

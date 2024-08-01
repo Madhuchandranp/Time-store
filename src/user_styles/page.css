@@ -1,0 +1,22 @@
+span{
+    color: #26a541;
+    margin: 6px 0 -4px
+  
+}
+.submit{
+    width: '100px';
+    height: '50px';
+    padding: '10px';
+    border: 'none';
+    background: 'yellow';
+    color: 'black';
+    font-weight: 'bold';
+    font-size: '18px';
+    cursor: 'pointer';
+    margin-top: '20px';
+    margin-bottom: '30px';
+    border: 2px;
+  }
+  p{
+    font-size: 25px;
+  }

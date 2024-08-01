@@ -1,0 +1,17 @@
+.addpro{
+     flex: left;
+     margin-left: 40%;
+     border: solid;
+     padding: 15px;
+}
+     .products{
+        .name{
+          border-bottom: 1px dotted #ccc;
+          cursor: pointer;
+        }
+      }
+      .imge{
+        width: 50px;
+        height: 50px;
+      }
+    
